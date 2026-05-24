@@ -90,7 +90,7 @@ node server.js
 
 📸 *Screenshot sugerida: painel do DevTools com as chaves `mode` e `theme` visíveis*
 
-![Local Storage no DevTools](screenshots/localstorage-devtools.png)
+![Local Storage no DevTools](localstorage-devtools.png)
 
 ---
 
@@ -114,8 +114,8 @@ body {
 
 📸 *Screenshots sugeridas: tela no estado Light e no estado Dark*
 
-![Light Mode](screenshots/light-mode.png)
-![Dark Mode](screenshots/dark-mode.png)
+![Light Mode](light-mode.png)
+![Dark Mode](dark-mode.png)
 
 ---
 
@@ -173,7 +173,7 @@ window.addEventListener('storage', (event) => {
 
 📸 *Screenshot sugerida: duas janelas abertas lado a lado mostrando o tema sincronizado*
 
-![Sincronização entre abas](screenshots/sync-abas.png)
+![Sincronização entre abas](sync-abas.png)
 
 ---
 
