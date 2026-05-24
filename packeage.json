@@ -1,0 +1,22 @@
+{
+  "name": "theme-sync-system",
+  "version": "1.0.0",
+  "description": "Sistema de tema dark/light com persistencia e sincronizacao entre abas",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "dark-mode",
+    "light-mode",
+    "localstorage",
+    "bom",
+    "web-storage",
+    "ux",
+    "javascript"
+  ],
+  "author": "Philip",
+  "license": "ISC"
+}
